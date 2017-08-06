@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GauravFooterCreater::Renderer.copyright 'Gaurav Gulati', 'All Rights Reserved'
+```
 
 ## Development
 
